@@ -1,0 +1,9 @@
+person
+fighting
+running
+gun
+gun_pointing
+bag
+bag_snatching
+kicking
+punching
